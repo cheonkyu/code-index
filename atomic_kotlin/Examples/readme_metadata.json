@@ -1,0 +1,350 @@
+[
+  {
+    "title": "Hello, World!",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/03_HelloWorld/README.md"
+  },
+  {
+    "title": "var & val",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/04_VarAndVal/README.md"
+  },
+  {
+    "title": "Data Types",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/05_DataTypes/README.md"
+  },
+  {
+    "title": "Functions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/06_Functions/README.md"
+  },
+  {
+    "title": "if Expressions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/07_IfExpressions/README.md"
+  },
+  {
+    "title": "String Templates",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/08_StringTemplates/README.md"
+  },
+  {
+    "title": "Number Types",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/09_NumberTypes/README.md"
+  },
+  {
+    "title": "Booleans",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/10_Booleans/README.md"
+  },
+  {
+    "title": "Repetition with while",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/11_RepetitionWithWhile/README.md"
+  },
+  {
+    "title": "Looping & Ranges",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/12_LoopingAndRanges/README.md"
+  },
+  {
+    "title": "The in Keyword",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/13_InKeyword/README.md"
+  },
+  {
+    "title": "Expressions & Statements",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/14_ExpressionsStatements/README.md"
+  },
+  {
+    "title": "Summary 1",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/15_Summary1/README.md"
+  },
+  {
+    "title": "Objects Everywhere",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/16_ObjectsEverywhere/README.md"
+  },
+  {
+    "title": "Creating Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/17_CreatingClasses/README.md"
+  },
+  {
+    "title": "Properties",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/18_Properties/README.md"
+  },
+  {
+    "title": "Constructors",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/19_Constructors/README.md"
+  },
+  {
+    "title": "Visibility",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/20_Visibility/README.md"
+  },
+  {
+    "title": "Packages",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/21_Packages/README.md"
+  },
+  {
+    "title": "Testing",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/22_Testing/README.md"
+  },
+  {
+    "title": "Exceptions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/23_Exceptions/README.md"
+  },
+  {
+    "title": "Lists",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/24_Lists/README.md"
+  },
+  {
+    "title": "Varargs",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/25_Varargs/README.md"
+  },
+  {
+    "title": "Sets",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/26_Sets/README.md"
+  },
+  {
+    "title": "Maps",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/27_Maps/README.md"
+  },
+  {
+    "title": "Property Accessors",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/28_PropertyAccessors/README.md"
+  },
+  {
+    "title": "Summary 2",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/29_Summary2/README.md"
+  },
+  {
+    "title": "Extension Functions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/30_ExtensionFunctions/README.md"
+  },
+  {
+    "title": "Named & Default Arguments",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/31_NamedAndDefaultArgs/README.md"
+  },
+  {
+    "title": "Overloading",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/32_Overloading/README.md"
+  },
+  {
+    "title": "when Expressions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/33_WhenExpressions/README.md"
+  },
+  {
+    "title": "Enumerations",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/34_Enumerations/README.md"
+  },
+  {
+    "title": "Data Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/35_DataClasses/README.md"
+  },
+  {
+    "title": "Destructuring",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/36_Destructuring/README.md"
+  },
+  {
+    "title": "Nullable Types",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/37_NullableTypes/README.md"
+  },
+  {
+    "title": "Safe Calls & Elvis",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/38_SafeCallsAndElvis/README.md"
+  },
+  {
+    "title": "Non-Null Assertions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/39_NonNullAssertions/README.md"
+  },
+  {
+    "title": "Nullable Extensions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/40_NullableExtensions/README.md"
+  },
+  {
+    "title": "Introduction to Generics",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/41_IntroGenerics/README.md"
+  },
+  {
+    "title": "Extension Properties",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/42_ExtensionProperties/README.md"
+  },
+  {
+    "title": "break & continue",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/43_BreakAndContinue/README.md"
+  },
+  {
+    "title": "Lambdas",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/44_Lambdas/README.md"
+  },
+  {
+    "title": "The Importance of Lambdas",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/45_ImportanceOfLambdas/README.md"
+  },
+  {
+    "title": "Operations on Collections",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/46_OperationsOnCollections/README.md"
+  },
+  {
+    "title": "Member References",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/47_MemberReferences/README.md"
+  },
+  {
+    "title": "Higher-Order Functions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/48_HigherOrderFunctions/README.md"
+  },
+  {
+    "title": "Manipulating Lists",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/49_ManipulatingLists/README.md"
+  },
+  {
+    "title": "Building Maps",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/50_BuildingMaps/README.md"
+  },
+  {
+    "title": "Sequences",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/51_Sequences/README.md"
+  },
+  {
+    "title": "Local Functions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/52_LocalFunctions/README.md"
+  },
+  {
+    "title": "Folding Lists",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/53_FoldingLists/README.md"
+  },
+  {
+    "title": "Recursion",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/54_Recursion/README.md"
+  },
+  {
+    "title": "Interfaces",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/55_Interfaces/README.md"
+  },
+  {
+    "title": "Complex Constructors",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/56_ComplexConstructors/README.md"
+  },
+  {
+    "title": "Secondary Constructors",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/57_SecondaryConstructors/README.md"
+  },
+  {
+    "title": "Inheritance",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/58_Inheritance/README.md"
+  },
+  {
+    "title": "Base Class Initialization",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/59_BaseClassInit/README.md"
+  },
+  {
+    "title": "Abstract Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/60_Abstract/README.md"
+  },
+  {
+    "title": "Upcasting",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/61_Upcasting/README.md"
+  },
+  {
+    "title": "Polymorphism",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/62_Polymorphism/README.md"
+  },
+  {
+    "title": "Composition",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/63_Composition/README.md"
+  },
+  {
+    "title": "Inheritance & Extensions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/64_InheritanceExtensions/README.md"
+  },
+  {
+    "title": "Class Delegation",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/65_ClassDelegation/README.md"
+  },
+  {
+    "title": "Downcasting",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/66_DownCasting/README.md"
+  },
+  {
+    "title": "Sealed Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/67_SealedClasses/README.md"
+  },
+  {
+    "title": "Type Checking",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/68_TypeChecking/README.md"
+  },
+  {
+    "title": "Nested Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/69_NestedClasses/README.md"
+  },
+  {
+    "title": "Objects",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/70_Objects/README.md"
+  },
+  {
+    "title": "Inner Classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/71_InnerClasses/README.md"
+  },
+  {
+    "title": "Companion Objects",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/72_CompanionObjects/README.md"
+  },
+  {
+    "title": "Exception Handling",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/73_ExceptionHandling/README.md"
+  },
+  {
+    "title": "Check Instructions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/74_CheckInstructions/README.md"
+  },
+  {
+    "title": "The Nothing Type",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/75_NothingType/README.md"
+  },
+  {
+    "title": "Resource Cleanup",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/76_ResourceCleanup/README.md"
+  },
+  {
+    "title": "Logging",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/77_Logging/README.md"
+  },
+  {
+    "title": "Unit Testing",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/78_UnitTesting/README.md"
+  },
+  {
+    "title": "Extension Lambdas",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/79_ExtensionLambdas/README.md"
+  },
+  {
+    "title": "Scope Functions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/80_ScopeFunctions/README.md"
+  },
+  {
+    "title": "Creating Generics",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/81_CreatingGenerics/README.md"
+  },
+  {
+    "title": "Operator Overloading",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/82_OperatorOverloading/README.md"
+  },
+  {
+    "title": "Using Operators",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/83_UsingOperators/README.md"
+  },
+  {
+    "title": "Property Delegation",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/84_PropertyDelegation/README.md"
+  },
+  {
+    "title": "Delegation Tools",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/85_DelegationTools/README.md"
+  },
+  {
+    "title": "Lazy Initialization",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/86_LazyInitialization/README.md"
+  },
+  {
+    "title": "Late Initialization",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/87_LateInitialization/README.md"
+  },
+  {
+    "title": "AtomicTest",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/A_AtomicTest/README.md"
+  },
+  {
+    "title": "Interoperability",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/atomic_kotlin/Examples/B_interoperability/README.md"
+  }
+]

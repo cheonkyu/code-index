@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Item 1. Limit mutability",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C1_Item01/README.md"
+  },
+  {
+    "title": "Item 2. Minimize the scope of variables",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C1_Item02/README.md"
+  },
+  {
+    "title": "Item 4. Do not expose inferred types",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C1_Item04/README.md"
+  },
+  {
+    "title": "Item 5. Specify your expectations on arguments",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C1_Item05/README.md"
+  },
+  {
+    "title": "Item 10. Write unit tests",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item10/README.md"
+  },
+  {
+    "title": "Item 11. Design for readability",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item11/README.md"
+  },
+  {
+    "title": "Item 13. Avoid returning or operating on Unit?",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item13/README.md"
+  },
+  {
+    "title": "Item 14. Specify the variable type when it is not clear 113",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item14/README.md"
+  },
+  {
+    "title": "Item 15. Consider referencing receivers explicitly",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item15/README.md"
+  },
+  {
+    "title": "Item 17. Consider naming arguments",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C2_Item17/README.md"
+  },
+  {
+    "title": "Item 20. Do not repeat common algorithms",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C3_Item20/README.md"
+  },
+  {
+    "title": "Item 21. Use property delegation to extract common property patterns",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C3_Item21/README.md"
+  },
+  {
+    "title": "Item 22. Use generics when implementing common algorithms",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C3_Item22/README.md"
+  },
+  {
+    "title": "Item 23. Avoid shadowing type parameters",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C3_Item23/README.md"
+  },
+  {
+    "title": "Item 25. Reuse between different platforms by",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C4_Item25/README.md"
+  },
+  {
+    "title": "Item 26. Each function should be written in terms",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C4_Item26/README.md"
+  },
+  {
+    "title": "Item 29. Consider wrapping external API",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C4_Item29/README.md"
+  },
+  {
+    "title": "Item 30. Minimize elements visibility",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C4_Item30/README.md"
+  },
+  {
+    "title": "Item 32. Respect abstraction contracts",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C5_Item32/README.md"
+  },
+  {
+    "title": "Item 33. Consider factory functions instead of",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C5_Item33/README.md"
+  },
+  {
+    "title": "Item 34. Consider a primary constructor with named",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C5_Item34/README.md"
+  },
+  {
+    "title": "Item 35. Consider defining a DSL for complex",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C5_Item35/README.md"
+  },
+  {
+    "title": "Item 36. Prefer composition over inheritance",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item36/README.md"
+  },
+  {
+    "title": "Item 37. Use the data modifier to represent a",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item37/README.md"
+  },
+  {
+    "title": "Item 39. Prefer class hierarchies to tagged classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item39/README.md"
+  },
+  {
+    "title": "Item 40. Respect the contract of equals",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item40/README.md"
+  },
+  {
+    "title": "Item 41. Respect the contract of hashCode",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item41/README.md"
+  },
+  {
+    "title": "Item 42. Respect the contract of compareTo",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item42/README.md"
+  },
+  {
+    "title": "Item 44. Avoid member extensions",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item44/README.md"
+  },
+  {
+    "title": "Item 45. Avoid unnecessary object creation",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item45/README.md"
+  },
+  {
+    "title": "Item 46. Use inline modifier for functions with",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C6_Item46/README.md"
+  },
+  {
+    "title": "Item 47. Consider using inline classes",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C7_Item47/README.md"
+  },
+  {
+    "title": "Item 48. Eliminate obsolete object references",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C7_Item48/README.md"
+  },
+  {
+    "title": "Item 50. Limit the number of operations",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C7_Item50/README.md"
+  },
+  {
+    "title": "Item 51. Consider Arrays with primitives for performancecritical processing",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C7_Item51/README.md"
+  },
+  {
+    "title": "Item 52. Consider using mutable collections",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C7_Item52/README.md"
+  },
+  {
+    "title": "Item 54",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C8_Item54/README.md"
+  },
+  {
+    "title": "Item 55",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C8_Item55/README.md"
+  },
+  {
+    "title": "Item 56",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C8_Item56/README.md"
+  },
+  {
+    "title": "Item 59",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C8_Item59/README.md"
+  },
+  {
+    "title": "Item 60",
+    "url": "https://raw.githubusercontent.com/cheonkyu/code-index/refs/heads/main/effectivekotlin_sources/src/main/kotlin/snippets/C8_Item60/README.md"
+  }
+]
